@@ -27,8 +27,8 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "GNet Connect",
+      "url": "GNetConnect"
     }
   ],
   "anchors": [
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Get Started Here",
       "pages": [
         "api-reference/introduction"
       ]
