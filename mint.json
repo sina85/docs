@@ -27,8 +27,8 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "GNet Connect",
+      "url": "gnet-connect"
     }
   ],
   "anchors": [
@@ -69,17 +69,52 @@
       ]
     },
     {
-      "group": "Get Started Here",
+      "group": "Getting Started",
       "pages": [
-        "api-reference/introduction"
+        "gnet-connect/introduction",
+        "gnet-connect/sign-up/page"
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Profile Setup",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "gnet-connect/profile/basic-information"
+      ]
+    },
+    {
+      "group": "Business Information",
+      "pages": [
+        "gnet-connect/location/managing-locations",
+        "gnet-connect/services/managing-services",
+        "gnet-connect/fleet/managing-fleets",
+        "gnet-connect/documents/managing-documents"
+      ]
+    },
+    {
+      "group": "Public Website Management",
+      "pages": [
+        "gnet-connect/website/home-page-setup/page",
+        "gnet-connect/website/about-page/page",
+        "gnet-connect/website/contact-information/page",
+        "gnet-connect/website/photo-albums/page",
+        "gnet-connect/website/testimonials/page"
+      ]
+    },
+    {
+      "group": "Network & Partnerships",
+      "pages": [
+        "gnet-connect/partners/finding-partners/page",
+        "gnet-connect/partners/managing-relationships/page",
+        "gnet-connect/partners/affiliate-needs/page"
+      ]
+    },
+    {
+      "group": "Account Settings",
+      "pages": [
+        "gnet-connect/settings/user-management/page",
+        "gnet-connect/settings/alerts-notifications/page",
+        "gnet-connect/settings/billing-subscription/page",
+        "gnet-connect/settings/analytics/page"
       ]
     }
   ],
